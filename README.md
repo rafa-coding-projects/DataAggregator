@@ -5,5 +5,8 @@ Please see the complete repository [here](https://github.com/ARoS-NCSU/Reliable-
 
 ![](https://research.ece.ncsu.edu/aros/wp-content/uploads/2020/05/LowerLimb_2020-1.png)
 
+
 Sample data
+
+
 ![](https://github.com/ARoS-NCSU/Reliable-Wearable-Robotics/blob/master/RPI%20Data%20Aggregator%20%20-%20lowerlimb/pics/ezgif.com-optimize.gif)
